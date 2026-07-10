@@ -1,4 +1,4 @@
-# BetbetMiro Extension
+## BetbetMiro Extension
 
 <div align="center">
 
